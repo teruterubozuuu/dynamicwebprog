@@ -1,0 +1,13 @@
+{
+    "name": "ciit/demo",
+    "autoload": {
+        "psr-4": {
+            "Ciit\\Demo\\": "src/"
+        }
+    },
+    "require": {
+        "cocur/slugify": "^4.6",
+        "ramsey/uuid": "^4.7",
+        "fakerphp/faker": "^1.24"
+    }
+}
